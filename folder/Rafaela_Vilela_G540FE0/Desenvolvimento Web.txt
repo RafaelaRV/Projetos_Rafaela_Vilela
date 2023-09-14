@@ -1,0 +1,28 @@
+Desenvolvimento Web
+
+<p>O Desenvolvimento web é a área da tecnologia voltada à construção de sites, aplicativos, softwares, bancos de dados e quaisquer outras ferramentas que, constroem a internet, isso inclui criação, codificação e programação de sites e seus respectivos elementos e linguagens. Ele também envolve integração com sistemas e ferramentas, armazenamento de banco de dados, cibersegurança, entre outros, com o objetivo de estruturar cada detalhe de uma página da internet.</p>
+<br>
+
+
+<h2>Desenvolvedor web</h2>
+
+<p>Os profissionais da área de desenvolvimento web são os programadores e desenvolvedores, que são responsáveis por criar todo o planejamento estrutural de páginas, utilizando linguagens de programação como HTML, CSS, JavaScript, PHP, entre várias outras. São profissionais capacitados para compreender, manusear e se utilizar de linguagens de programação para construir sistemas complexos voltados a utilização do usuário.
+Dentro da carreira de desenvolvedor web existem diversas especialidades, como por exemplo front e back-end, infraestrutura de sistemas; especialistas em banco de dados, entre outros.</p>
+<br>
+
+
+<h3>Front-end</h3>
+
+<p>A Programação front-end é o que envolve toda parte visual de um site; toda a parte com a qual o usuário pode interagir, isso inclui todos os elementos visuais presentes: disposição dos elementos, fontes de textos, cores, fotos, vídeos, chatbots, formulários, menus, CTA’s, entre tantos outros.. Em outras palavras é sua interface externa.
+Um desenvolvedor front-end é responsável por dominar as linguagens de programação voltadas à interface gráfica de tudo que é apresentado pelo navegador.
+As principais linguagens front-end são HTML, CSS e JavaScript, mas as bibliotecas também são muito populares entre estes profissionais</p>
+<br>
+
+<h3>Back-end</h3>
+
+<p>A programação back-end é aquela que envolve toda parte interna de um site, ou seja, tudo aquilo que diz respeito ao seu funcionamento, processamento e armazenamento de dados e informações.O desenvolvedor back-end é o profissional que trabalha em toda a parte de desenvolvimento web que é invisível aos olhos do utilizador. É ele o responsável por codificar e programar toda a parte do sistema interno operacional. Isso significa fazer as integrações com API’s e servidores, armazenamento e proteção de dados internos e externos, assim como a usabilidade, entre outros.</p>
+<br>
+
+<h2>Desenvolvedor full stack</h2>
+
+<p> O desenvolvedor full stack é aquele que está capacitado para atuar tanto em front-end e back-end, tem conhecimentos de toda a aréa de desenvolvimento web, tanto as partes visuais quanto as partes invisiveis para o usuário.</p>

@@ -1,0 +1,47 @@
+Segurança da Informação
+
+Segurança da informação, como o próprio nome diz, se refere a prática de segurança dos dados e informações. A informação é um dado com um contexto e é criada, armazenada, processada, transmitida, utilizada, atualizada e descartada, em um ciclo. <br>
+O valor da informação varia de acordo com o valor que ela tem para o negócio e a informação pode ser de várias formas, como:<br>
+Impressa;<br>
+Escrita;<br>
+Fotos;<br>
+Meios eletronicos;<br>
+Meios digitais. 
+
+O formato da informação vai impor restrições e vai definir as medidas necessárias para sua proteção. 
+A confiabilidade da segurança é dividida em três pilares:<br>
+-Confidenciabilidade - busca garantir que a informação é confidencial, e é acessada apenas a pessoas autorizadas.<br> 
+-Integridade - garantir que a informação não foi alterada, permaneça integra e verdadeira.<br>
+-Disponibilidade- a informação precisa estar disponivel e utilizavel.<br>
+
+Ameaças e Riscos<br>
+
+A Vulnerabilidade é a fragilidade de um ativo ou grupo de ativos que pode ser explorada por uma ou mais ameaças. A Ameaça é a causa potencial de um incidente indesejado, que pode causar danos para um sistema ou organização.<br>
+O risco está associado ao potencial de que ameaças explorem vulnerabilidades de informações e causem danos para um sistema ou organização. <br>
+Risco= consequencias X probabilidade<br>
+
+Os controles são as medidas de segurança aplicada para modificar o risco a niveis aceitaveis. E as medidas de S.I. incluem qualquer processo, politica, dispositivo, prática e outras ações direcionadas a modificar os riscos.<br>
+A medida modifica o risco e podem ser medidas fisicas ou medidas tecnicas.<br>
+
+Tratamento de riscos<br>
+Os riscos são tratados através da criação de controles de segurança da informação, alguns controles são:<br>
+Controles para dissuação;<br>
+Controles para detecção e repressão;<br>
+Controles para correção;<br>
+Controles de avaliação.<br>
+
+Politica de Segurança da Informação<br>
+É uma declaração formal geral da alta direção da organização, define o papel de segurança da informação dentro de uma organização. A PSI é formada por:<br>
+-análise de riscos<br>
+-planejamento<br>
+-controles<br>
+-avaliação <br>
+
+Em apoio a segurança da informação, temos a familia ISO 27.00x, desde a ISO 27.000 que aborda os conceitos gerais, a ISO 27.001 que é uma base para implementação e estabelece requisitos, 27.002 que define os pré-requisitos para a certificação da 27.001, 27.003 aborda diretrizes para implementação de SGSI, 27.004 que contém orientações para auxiliar na avaliação de S.I, 27.005 gerenciamenro dos riscos de S.I, 27.006 requisitos e orientações para empresas que fornece serviços de auditoria e certificação de uma empresa cliente, 27.007 diretrizes para auditoria de SGSI.<br>
+ 
+SGSI - Sistema de Gestão de Segurança da Informação. <br>
+
+
+
+
+
