@@ -1,0 +1,16 @@
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe.config
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.pdb
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.AssemblyReference.cache
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.lblAdicionarFuncionario.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.lblCadastroDependentes.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Form4.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Form5.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Form6.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Form7.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Properties.Resources.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.GenerateResource.cache
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.exe
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.pdb
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.lblCadastroCargosDadosBancarios.resources
