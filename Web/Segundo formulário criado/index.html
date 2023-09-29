@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula</title>
+</head>
+<body>
+   <form action="pages/pagina2.html" meth>
+        <!--type texto-->
+        <label for="nome">Usuario</label>
+        <input type="text">
+        <br>
+        <!--type de senha-->
+        <label for="Senha">Senha</label>
+        <input type="password">
+        <br>
+        <!--type de email-->
+        <label>Email</label>
+        <input type="email">
+        <br>
+        <!--type textArea-->
+        <label>Mensagem</label>
+        <textarea rows="2" cols="50"></textarea>
+        <br>
+        <!--type seleção (dropdown)-->
+        <label>Genero</label>
+        <select>
+            <option selected>Selecione</option>
+            <option> Masculino</option>
+            <option>Feminino</option>
+            <option>+</option>
+        </select>
+        <br>
+        <!--botoes type radio-->
+        <p>Preferencias de contato</p>
+        <input type="radio" name="Contato" value="email">
+        <label>Email</label>
+        <br>
+        <input type="radio" name="Contato" value="telefone">
+        <label>Telefone</label>
+        <!--o NAME é um grupo, permite escolher um ou outro dentro do grupo, no radio-->
+        <br>
+        <!--botoes type check-->
+        <p>Interesses</p>
+        <input type="checkbox" name="Interesses" value="esportes">
+        <label>Esportes</label>
+        <br>
+        <input type="checkbox" name="Interesses" value="musica">
+        <label>Música</label>
+        <br>
+        <!--Controle de data-->
+        <label>Data de nascimento</label>
+        <input type="Date">
+        <br>
+        <!--Envio de arquivos-->
+        <label>Arquivos</label>
+        <input type="file">
+        <br>
+        <!--Botao envio-->
+        <input type="submit" value="Enviar">
+        <!-- neste caso o valor é o nome do botao-->
+   </form> 
+   <div>
+    <id="cabecalho">Isso é o cabeçalho.</div>
+
+    <p class="destaque">Este é um parágrafo destacado.</p>
+   </div>
+</body>
+</html>

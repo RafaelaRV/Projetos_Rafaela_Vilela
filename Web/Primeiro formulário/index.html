@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercicio</title>
+</head>
+<body>
+    <h1>Formulario de Registro</h1>
+    <form action="pages/pagina2.html" method="post">
+        <label for="Nome">Nome</label>
+        <input type="text" required>
+        <br>
+        <label for="E-mail">E-mail</label>
+        <input type="email" required >
+        <br>
+        <label for="Senha">Senha</label>
+        <input type="password" pattern=""{6}>
+        <br>
+        <label for="Confirmação de Senha">Confirmação de Senha</label>
+        <input type="password">
+        <br>
+        <label>Genero</label>
+        <select>
+            <option selected>Selecione </option>
+            <option>Masculino</option>
+            <option>Feminino</option>
+            <option>Outro</option>
+        </select>
+        <br>
+        <input type="checkbox">
+        <label>Aceitar os termos e condições</label>
+        <br>
+        <input type="submit" value="Registrar">
+
+
+
+    </form>
+
+</body>
+</html>
