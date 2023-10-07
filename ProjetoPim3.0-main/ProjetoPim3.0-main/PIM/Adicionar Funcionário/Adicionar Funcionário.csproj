@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{60954256-ED57-492C-8911-7B8398CBE06F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Adicionar_Funcionário</RootNamespace>
+    <AssemblyName>Adicionar Funcionário</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Apresentacao\FrmCadastroDeCargos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\FrmCadastroDeCargos.Designer.cs">
+      <DependentUpon>FrmCadastroDeCargos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\FrmAdicionar_Funcionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\FrmAdicionar_Funcionario.Designer.cs">
+      <DependentUpon>FrmAdicionar_Funcionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\FrmDadosFunci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\FrmDadosFunci.Designer.cs">
+      <DependentUpon>FrmDadosFunci.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\FrmEditardependentes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\FrmEditardependentes.Designer.cs">
+      <DependentUpon>FrmEditardependentes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\FrmApagarFunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\FrmApagarFunc.Designer.cs">
+      <DependentUpon>FrmApagarFunc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\FrmCadastrarSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\FrmCadastrarSenha.Designer.cs">
+      <DependentUpon>FrmCadastrarSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\FrmCadastro_de_dependentes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\FrmCadastro_de_dependentes.Designer.cs">
+      <DependentUpon>FrmCadastro_de_dependentes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\FrmListaDeEndereço.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\FrmListaDeEndereço.Designer.cs">
+      <DependentUpon>FrmListaDeEndereço.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\FrmListaDeDependetes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\FrmListaDeDependetes.Designer.cs">
+      <DependentUpon>FrmListaDeDependetes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\FrmcargosEcontas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\FrmcargosEcontas.Designer.cs">
+      <DependentUpon>FrmcargosEcontas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\FrmEditarFunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\FrmEditarFunc.Designer.cs">
+      <DependentUpon>FrmEditarFunc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\FrmListadeFuncionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\FrmListadeFuncionarios.Designer.cs">
+      <DependentUpon>FrmListadeFuncionarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentacao\FrmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\FrmMenu.Designer.cs">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\Adicionar FuncionariosDAO.cs" />
+    <Compile Include="DAL\Conexão.cs" />
+    <Compile Include="Modelo\Controle.cs" />
+    <Compile Include="Modelo\Funcionario.cs" />
+    <Compile Include="Modelo\Pessoa.cs" />
+    <Compile Include="Modelo\Validação.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Apresentacao\FrmCadastroDeCargos.resx">
+      <DependentUpon>FrmCadastroDeCargos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\FrmAdicionar_Funcionario.resx">
+      <DependentUpon>FrmAdicionar_Funcionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\FrmDadosFunci.resx">
+      <DependentUpon>FrmDadosFunci.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\FrmEditardependentes.resx">
+      <DependentUpon>FrmEditardependentes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\FrmApagarFunc.resx">
+      <DependentUpon>FrmApagarFunc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\FrmCadastrarSenha.resx">
+      <DependentUpon>FrmCadastrarSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\FrmCadastro_de_dependentes.resx">
+      <DependentUpon>FrmCadastro_de_dependentes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\FrmListaDeEndereço.resx">
+      <DependentUpon>FrmListaDeEndereço.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\FrmListaDeDependetes.resx">
+      <DependentUpon>FrmListaDeDependetes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\FrmcargosEcontas.resx">
+      <DependentUpon>FrmcargosEcontas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\FrmEditarFunc.resx">
+      <DependentUpon>FrmEditarFunc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\FrmListadeFuncionarios.resx">
+      <DependentUpon>FrmListadeFuncionarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\FrmMenu.resx">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

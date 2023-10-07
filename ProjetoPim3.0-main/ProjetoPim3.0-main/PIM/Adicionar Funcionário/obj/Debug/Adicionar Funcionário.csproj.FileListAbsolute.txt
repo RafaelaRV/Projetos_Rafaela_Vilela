@@ -1,0 +1,91 @@
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe.config
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.pdb
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.AssemblyReference.cache
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Properties.Resources.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.GenerateResource.cache
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.exe
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.pdb
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmAdicionarFuncionario.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmDadosFuncionario.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmDadosFuncionarios.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmApagarFuncionario.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.lblCadastrarSenha.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadastroDependentes.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadastroCargosDadosBancarios.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmListaFuncionarios.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmID.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmListaDependentes.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCargosContas.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarFuncionario.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarDependentes.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\DesktopPim.FrmMenu.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\DesktopPim.Login.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe.config
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.pdb
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmAdicionarFuncionario.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmDadosFuncionario.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmDadosFuncionarios.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmApagarFuncionario.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.lblCadastrarSenha.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadastroDependentes.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadastroCargosDadosBancarios.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmListaFuncionarios.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmID.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmListaDependentes.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCargosContas.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarFuncionario.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarDependentes.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\DesktopPim.Login.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\DesktopPim.FrmMenu.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Properties.Resources.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.exe
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.pdb
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe.config
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.pdb
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmAdicionarFuncionario.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmDadosFuncionario.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmApagarFuncionario.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadastroDependentes.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmListaDependentes.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCargosContas.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarFuncionario.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarDependentes.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\DesktopPim.Login.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\DesktopPim.FrmMenu.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Properties.Resources.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.exe
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.pdb
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmCadCargo.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmListadeFuncionarios.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmLista_de_Endereço.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadSenha.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\ProjetoPim3.0-main\ProjetoPim3.0-main\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.AssemblyReference.cache
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\ProjetoPim3.0-main\ProjetoPim3.0-main\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmCadCargo.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\ProjetoPim3.0-main\ProjetoPim3.0-main\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmAdicionarFuncionario.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\ProjetoPim3.0-main\ProjetoPim3.0-main\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmDadosFuncionario.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\ProjetoPim3.0-main\ProjetoPim3.0-main\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarDependentes.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\ProjetoPim3.0-main\ProjetoPim3.0-main\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmApagarFuncionario.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\ProjetoPim3.0-main\ProjetoPim3.0-main\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadSenha.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\ProjetoPim3.0-main\ProjetoPim3.0-main\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadastroDependentes.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\ProjetoPim3.0-main\ProjetoPim3.0-main\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmLista_de_Endereço.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\ProjetoPim3.0-main\ProjetoPim3.0-main\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmListaDependentes.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\ProjetoPim3.0-main\ProjetoPim3.0-main\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCargosContas.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\ProjetoPim3.0-main\ProjetoPim3.0-main\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarFuncionario.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\ProjetoPim3.0-main\ProjetoPim3.0-main\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmListadeFuncionarios.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\ProjetoPim3.0-main\ProjetoPim3.0-main\PIM\Adicionar Funcionário\obj\Debug\DesktopPim.Login.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\ProjetoPim3.0-main\ProjetoPim3.0-main\PIM\Adicionar Funcionário\obj\Debug\DesktopPim.FrmMenu.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\ProjetoPim3.0-main\ProjetoPim3.0-main\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Properties.Resources.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\ProjetoPim3.0-main\ProjetoPim3.0-main\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.GenerateResource.cache
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\ProjetoPim3.0-main\ProjetoPim3.0-main\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\ProjetoPim3.0-main\ProjetoPim3.0-main\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.exe
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\ProjetoPim3.0-main\ProjetoPim3.0-main\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.pdb
