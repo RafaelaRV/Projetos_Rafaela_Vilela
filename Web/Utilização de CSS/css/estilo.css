@@ -1,0 +1,56 @@
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+#logo
+{
+    width: 100px;
+}
+nav
+{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
+nav a
+{
+    text-decoration: none;
+    color: white;
+}
+nav ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+nav li
+{
+    display: inline;
+    margin-right: 20px;
+}
+.section
+{
+    float: left;
+    width: 50%;
+    background-color: aqua;
+    text-align: justify;
+}
+.aside
+{
+    float: right;
+    width: 50%;
+    background-color: rgb(16, 88, 129);
+}
+footer
+{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+}
