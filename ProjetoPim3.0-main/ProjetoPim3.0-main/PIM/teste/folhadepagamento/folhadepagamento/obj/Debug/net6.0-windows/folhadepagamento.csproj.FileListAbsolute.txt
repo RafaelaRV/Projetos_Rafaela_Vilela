@@ -1,0 +1,6 @@
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\teste\folhadepagamento\folhadepagamento\obj\Debug\net6.0-windows\folhadepagamento.Form1.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\teste\folhadepagamento\folhadepagamento\obj\Debug\net6.0-windows\folhadepagamento.csproj.GenerateResource.cache
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\teste\folhadepagamento\folhadepagamento\obj\Debug\net6.0-windows\folhadepagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\teste\folhadepagamento\folhadepagamento\obj\Debug\net6.0-windows\folhadepagamento.AssemblyInfoInputs.cache
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\teste\folhadepagamento\folhadepagamento\obj\Debug\net6.0-windows\folhadepagamento.AssemblyInfo.cs
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\teste\folhadepagamento\folhadepagamento\obj\Debug\net6.0-windows\folhadepagamento.csproj.CoreCompileInputs.cache
