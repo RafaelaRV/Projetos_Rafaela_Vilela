@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Input Data List</title>
+</head>
+<body>
+    
+<div class="col-4 m-4">
+    <h2>Dados de endereço</h2>
+    <form>
+        <div class="mb-4">
+            <label for="estados" class="form-label">Selecione uma estado:</label>
+            <input class="form-control" list="datalistoptions" id="estados" placeholder="Busque a seu estado...">
+            <datalist id="datalistoptions">
+                <option value="São Paulo">
+                <option value="Alagoas">
+                <option value="Amazonas">
+                <option value="Rio de Janeiro">
+                </option>
+        </div>
+
+    <div class="mb-4">
+        <label for="cidades" class="form-label">Selecione uma cidade:</label>
+        <input class="form-control" list="datalistoptions2" id="cidades" placeholder="Busque a sua cidade...">
+        <datalist id="datalistoptions2">
+            <option value="São Paulo">
+            <option value="Itu">
+            <option value="Sorocaba">
+            <option value="Rio de Janeiro">
+            <option value="Belém">
+            <option value="Manaus">
+            </option>
+
+    </div>
+    </form>
+</div>
+
+
+<!--Input type Cores-->
+
+<div class="mb-4">
+    <label for="cor" class="form-label">Selecione a cor:</label>
+    <input type="color" class="form-control form-control-color" id="cor" value="#000"
+    title="Escolha a cor">
+</div>
+</body>
+</html>
