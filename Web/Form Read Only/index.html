@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Read Only</title>
+</head>
+<body>
+
+  <div class="col-4 m-4">
+
+    <h2>Formulário Somente de Leitura</h2>
+    <form>
+        <div class="mb-4">
+            <label for="email" class="form-label">E-mail</label>
+            <input type="email" class="form-control" id="email" name="email" aria-describedby="emailHelp" placeholder="Insira seu e-mail" readonly value="rafaela@email.com">
+          
+        </div>
+
+        <div class="mb-4">
+            <label for="number" class="form-label">Número de telefone</label>
+            <input type="number" class="form-control" id="num" name="num" placeholder="Insira seu telefone"  readonly value="15988235487">
+        </div>
+       
+        <button type="submit">Cadastrar</button>    
+</form>
+</div>
+</body>
+</html>
