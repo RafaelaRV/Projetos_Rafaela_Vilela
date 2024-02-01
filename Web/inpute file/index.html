@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário Input File</title>
+</head>
+<body>
+    <div class="col-4 m-4">
+        <h2>Teste de Input de Arquivo</h2>
+        <form>
+            <div class="mb-4">
+                <label for="foto" class="form-label"> Apenas um arquivo:</label>
+                <input type="file" class="form-control" id="foto">
+            </div>
+
+            <div class="mb-4">
+                <label for="fotos" class="form-label"> Múltiplos arquivos:</label>
+                <input type="file" class="form-control" id="fotos" multiple>
+            </div>
+
+            <div class="mb-4">
+                <label for="fotos2" class="form-label"> Input file desabilitado</label>
+                <input type="file" class="form-control" id="fotos2" disabled>
+            </div>
+
+        </form>
+    </div>
+</body>
+</html>
