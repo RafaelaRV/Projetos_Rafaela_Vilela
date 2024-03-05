@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <title>Escola ABE</title>
+</head>
+<body>
+     <!--Scrollspy-->
+     <nav id="scrollspy" class="navbar navbar-ligth bg-ligth px-3 mb-4">
+        <a href="#" class="navbar-brand">ABE</a>
+        <ul class="nav">
+            <li class="nav-item">
+                <a href="#secao-1" class="nav-link">Livros estudantis</a>
+            </li>
+            <li class="nav-item">
+                <a href="#secao-2" class="nav-link">Livros de ficcção</a>
+            </li>
+        </ul>
+    </nav>
+    <div data-bs-spy="scroll" data-bs-target="scrollspy" data-bs-offset="0" tabindex="0">
+        <h4 id="secao-1">Livros estudantis</h4>
+        <p>Potuguês</p>
+        <p>História</p>
+        <p>Ciencias</p>
+        <p>Matemática</p>
+        <p>Ingles</p>
+        <p>Geografia</p>
+        <p>Biologia</p>
+
+        <h4 id="secao-2">Livros de Ficção</h4>
+            <p>Frankenstein</p>
+            <p>Duna</p>
+            <p>1984</p>
+            <p>Eu,Robô</p>
+            <p>Fahrenheit 451</p>
+    </div>
+
+    <!--TOAST-->
+    <div class="position-fixed bottom-0 end-0 p-3" style="z-index:11">
+        <div id="liveToast" class="toast show" role="alert" aria-live="assertive" aria-atomic="true">
+           <div class="toast-header">
+            <strong class="me-auto">Sistema</strong>
+                <small>2 minutos atrás</small>
+                <button class="btn-close" type="button" data-bs-dismiss="toast" aria-label="Close">
+
+                </button>
+            </div>
+            <div class="toast-body">
+                O sistema irá atualizar em 10 minutos 
+            </div> 
+        </div>
+    </div>
+
+</body>
+</html>
