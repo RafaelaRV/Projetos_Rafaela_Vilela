@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <title>MJ Modas Femininas</title>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand"  href="#">MJ Produtos</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                      <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    </li>                   
+                    <li class="nav-item">
+                        <a class="nav-link" href="#" >Produtos</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle"  href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Categorias
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a href="#" class="dropdown-item">Infantil</a></li>
+                            <li><a href="#" class="dropdown-item">Jovens</a></li>
+                            <li><a href="#" class="dropdown-item">Adultos C</a></li>
+                            <li><a href="#" class="dropdown-item">Senhoras D</a></li>
+                        </ul>
+                 </li>
+                 <li class="nav-item">
+                    <a class="nav-link" href="#">Blog</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Contato</a>
+                  </li>
+                </ul>
+            </div>
+        </div>
+        <form class="d-flex">
+            <input type="search" class="form-control me-2" placeholder="Faça sua busca" aria-label="search">
+            <button class="btn-outline-primary" type="submit">Pesquisar</button>
+        </form>
+    </nav>
+    <!--Off Canvas-->
+    <div class="container m-4">
+        <button class="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvas1" aria-controls="offcanvas1">
+            Abrir Carrinho
+        </button>
+        <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvas1" aria-labelledby="offcanvasLabel">
+            <div class="offcanvas-header">
+                <h5 id="offcanvasLabel"> Carrinho</h5>
+                <button class="btn-close text-reset" type="button" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body">
+                <ul>
+                    <li>Roupas</li>
+                    <li>Sapatos</li>
+                    <li>Bolsas</li>
+                    <li>Acessórios</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+     <!--Paginação-->
+
+     <div class="container mb-4">
+        <nav aria-label="Page navigation">
+            <h4>Conheça outros produtos de nossa loja</h4>
+            <ul class="pagination">
+                <li class="page-item active"><a href="#" class="page-link">1</a></li>
+                <li class="page-item"><a href="#" class="page-link">2</a></li>
+                <li class="page-item"><a href="#" class="page-link">3</a></li>
+            </ul>
+        </nav>
+    </div>
+    
+    <!--Tooltip-->
+
+    <div class="container">
+        <button class="btn btn-secondary" type="button" data-bs-toggle="tooltip" data-bs-placement="top" title="Dicas para montar looks">Clique para ver alguns looks prontos</button>
+    </div>
+
+</body>
+</html>
