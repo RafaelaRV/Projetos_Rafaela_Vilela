@@ -12,5 +12,20 @@ main {
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgb(rgba(221, 82, 82, 0.363),);
+    box-shadow: 3px 3px 5px (rgba(221, 82, 82, 0.363),);
+}
+img.lado {
+    float:right;
+    width: 100px; 
+}
+img.back
+{
+    width:50px;
+    display: flex;
+    padding: 20px;
+}
+iframe {
+    display: block;
+    margin: auto;
+    max-width: 100%;
 }
